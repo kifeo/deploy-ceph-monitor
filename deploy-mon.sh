@@ -64,7 +64,7 @@ echo "
 ###
 [mon.proxmox$1]
         host = proxmox$1
-        addr = $PUBLIC_ADDR:6789
+        addr = $PUBLIC_ADDR
 ###
 "
 
